@@ -1,0 +1,9 @@
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\bin\Debug\TestGitRepository.exe.config
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\bin\Debug\TestGitRepository.exe
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\bin\Debug\TestGitRepository.pdb
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.csprojAssemblyReference.cache
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.Properties.Resources.resources
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.csproj.GenerateResource.cache
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.csproj.CoreCompileInputs.cache
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.exe
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.pdb
