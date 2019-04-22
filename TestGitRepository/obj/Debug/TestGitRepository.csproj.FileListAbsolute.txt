@@ -7,3 +7,4 @@ C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGit
 C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.csproj.CoreCompileInputs.cache
 C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.exe
 C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.pdb
+C:\Users\KRPS\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.Form1.resources
